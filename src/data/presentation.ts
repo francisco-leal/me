@@ -12,23 +12,23 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
-  // profile: "/profile.webp",
+  mail: "francisco@talentprotocol.com",
+  title: "Hi, I'm Leal 👋",
+  profile: "/opengraph-image.png",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Hello, I'm a *portuguese builder* that is in love with the web. I bring in over *7 years* of build web products to anything that I focus on. I am currently building *Talent Protocol*, a social and economic platform where builders commit to future goals, share their progress and find the support they need to succeed. I'm working with *Ruby on Rails, React, NextJS, Typescript and Solidity*. Outside of work you can find me playing chess, drinking coffee with friends, traveling or boxing (something new!).",
   socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
-    },
-    {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      link: "https://twitter.com/Francisco__Leal",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/francisco-leal",
+    },
+    {
+      label: "Talent Protocol",
+      link: "https://beta.talentprotocol.com/u/leal",
     },
   ],
 };

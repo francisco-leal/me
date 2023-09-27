@@ -7,20 +7,29 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Dictionary App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Talent Protocol",
+    techs: ["React", "NextJS", "Ruby on Rails", "Solidity", "Typescript"],
+    link: "https://github.com/talentprotocol",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "BuilderFi - Hackathon Project @ETHSingapore",
+    techs: ["NextJS", "Solidty"],
+    link: "https://github.com/francisco-leal/buidlerfi-eth-singapore",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
-    link: "/",
-    isComingSoon: true,
+    title: "Slice - Hackathon Project @ETHGlobal Lisbon",
+    techs: ["NextJS", "Solidty"],
+    link: "https://ethglobal.com/showcase/lice-fi4bo",
+  },
+  {
+    title: "iCapital",
+    techs: ["React", "Ruby on Rails"],
+    link: "https://icapital.com/",
+  },
+  {
+    title: "Runtime Revolution",
+    techs: ["React", "Ruby on Rails"],
+    link: "https://www.runtime-revolution.com/",
   },
 ];
 
