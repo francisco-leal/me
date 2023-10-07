@@ -6,7 +6,7 @@ slug: "building-a-knowledge-base"
 isPublish: true
 ---
 
-# Building an Open Engineering Knowledge Base
+## Building an Open Engineering Knowledge Base
 I've often found myself in a pattern: solve a problem, build a feature, and move on to the next task, leaving little time to reflect on the process or document solutions. “Where did I put those notes?” is a question I’ve asked myself too many times. Now, it’s time to change that.
 
 ## Creating a Personal Knowledge Base
