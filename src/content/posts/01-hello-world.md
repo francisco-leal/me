@@ -1,6 +1,6 @@
 ---
 title: "Hello world"
-publishedAt: 2023-05-24
+publishedAt: 2023-10-01
 description: "Crossing something off my bucket list."
 slug: "hello-world"
 isPublish: true
